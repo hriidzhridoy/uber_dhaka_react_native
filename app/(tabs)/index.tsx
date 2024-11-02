@@ -8,7 +8,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 export default function HomeScreen() {
   return (
     <SafeAreaView style={styles.safeArea}>
-      <Text style={styles.textWhite}>Hello</Text>
+      <Text style={styles.textWhite}>Hello 2</Text>
     </SafeAreaView>
   );
 }
